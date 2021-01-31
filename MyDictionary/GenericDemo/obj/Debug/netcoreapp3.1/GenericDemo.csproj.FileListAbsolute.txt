@@ -1,0 +1,13 @@
+C:\C#\GenericDemo\GenericDemo\bin\Debug\netcoreapp3.1\GenericDemo.exe
+C:\C#\GenericDemo\GenericDemo\bin\Debug\netcoreapp3.1\GenericDemo.deps.json
+C:\C#\GenericDemo\GenericDemo\bin\Debug\netcoreapp3.1\GenericDemo.runtimeconfig.json
+C:\C#\GenericDemo\GenericDemo\bin\Debug\netcoreapp3.1\GenericDemo.runtimeconfig.dev.json
+C:\C#\GenericDemo\GenericDemo\bin\Debug\netcoreapp3.1\GenericDemo.dll
+C:\C#\GenericDemo\GenericDemo\bin\Debug\netcoreapp3.1\GenericDemo.pdb
+C:\C#\GenericDemo\GenericDemo\obj\Debug\netcoreapp3.1\GenericDemo.csprojAssemblyReference.cache
+C:\C#\GenericDemo\GenericDemo\obj\Debug\netcoreapp3.1\GenericDemo.AssemblyInfoInputs.cache
+C:\C#\GenericDemo\GenericDemo\obj\Debug\netcoreapp3.1\GenericDemo.AssemblyInfo.cs
+C:\C#\GenericDemo\GenericDemo\obj\Debug\netcoreapp3.1\GenericDemo.csproj.CoreCompileInputs.cache
+C:\C#\GenericDemo\GenericDemo\obj\Debug\netcoreapp3.1\GenericDemo.dll
+C:\C#\GenericDemo\GenericDemo\obj\Debug\netcoreapp3.1\GenericDemo.pdb
+C:\C#\GenericDemo\GenericDemo\obj\Debug\netcoreapp3.1\GenericDemo.genruntimeconfig.cache
